@@ -1,0 +1,8 @@
+{
+  "/notification/api/socket/*": {
+    "target": "http://localhost:8287",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
